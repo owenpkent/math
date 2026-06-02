@@ -1,0 +1,19 @@
+# This is an index repo: it intentionally does not vendor the problem repos.
+# The problem repos live alongside this folder in dev/ and have their own remotes.
+
+# If you ever clone the problem repos into here, keep them out of this repo:
+/birch-swinnerton-dyer/
+/hodge-conjecture/
+/navier-stokes-smoothness/
+/p-vs-np/
+/poincare-conjecture/
+/zeta-function/
+/zeta function/
+/yang-mills-mass-gap/
+/hadwiger-nelson/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
