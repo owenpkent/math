@@ -67,4 +67,6 @@ open problem in combinatorial geometry.
   PHASE_STATE.md            # Current state
 ```
 
-See [STATUS.md](STATUS.md) for a fuller current-state snapshot per problem.
+See [STATUS.md](STATUS.md) for a fuller current-state snapshot per problem, and
+[AI_AMENABILITY.md](AI_AMENABILITY.md) for a 2024-2026 survey of which Millennium
+problems are most likely to be advanced by AI.
